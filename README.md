@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+projects+%F0%9F%9A%80;Exploring+AI+%26+Data+Analytics+%F0%9F%A4%96;Creating+interactive+experiences+%F0%9F%8E%AE;Always+learning.+Always+building.+%E2%9C%A8" alt="Typing SVG" />
 
-<br>
+<br> 
 
 <img src="./sruthi-profile.gif" width="260" alt="Sruthi animated profile">
 
