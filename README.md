@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Hi, I'm Sruthi Keerthana
 
@@ -185,4 +185,4 @@ Exploring character creation and 3D workflows using **VRoid Studio, Blender and 
 📊 Data Analytics
 ☁️ Cloud Technologies
 🧊 3D Character Development
-🌐 Full-Stack Development
+🌐 Full-Stack Development -->
